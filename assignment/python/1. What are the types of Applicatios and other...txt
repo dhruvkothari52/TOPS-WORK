@@ -1,0 +1,51 @@
+Q1What are the types of Applications?
+
+= Python is a powerful language that can make many types of applications. It is used for websites and web apps with Django and Flask. We can also make desktop apps like calculators and notepads using Tkinter or PyQt. Python is very popular in data science and artificial intelligence for analyzing data and making smart systems. It can also be used in games and for automation to do boring tasks automatically. Python is even used in networking, security, robots, and IoT devices. That is why Python is called a multipurpose or all-rounder language.
+
+
+Q2) What is Programming?
+
+Programming is the process of writing instructions for a computer to perform tasks. These instructions are written in special languages called programming languages (like Python, C, Java). Programming helps us create software, apps, websites, and games. In simple words, programming is how humans tell computers what to do.
+
+
+Q3) What is Python?
+
+Python is a high-level, simple, and powerful programming language. It is easy to read and write because it use simple English-like syntax. Python is used for web development, data science, artificial intelligence, automation, and many more applications. It is free, open-source, and one of the most popular languages today.
+
+
+Q7) How memory is managed in Python?
+
+Python uses private heap memory to store objects.
+
+The Python memory manager controls this heap.
+
+It uses reference counting and a garbage collector to automatically clean unused objects.
+
+This makes memory management automatic and efficient.
+
+
+Q8) Purpose of continue statement in Python
+
+The continue statement is used inside loops to skip the current iteration and move to the next one.
+Example
+
+Q25) What is List? How to reverse a list?
+
+A list is a collection of items in Python, written inside square brackets [].
+
+Example: lst = [1, 2, 3, 4]
+
+Reverse:
+
+lst = [1, 2, 3, 4]
+lst.reverse()
+print(lst)
+
+
+:- THEORY TILL Q 25....
+
+
+
+
+
+
